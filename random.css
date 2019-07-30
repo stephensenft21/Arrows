@@ -1,0 +1,16 @@
+body {
+  background-color: blue
+}
+
+#display-container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.left{
+ background: url("images/left-arrow.png") no-repeat fixed center;
+}
+
+.right{
+background: url("images/right-arrow.png") no-repeat fixed center;
+}
